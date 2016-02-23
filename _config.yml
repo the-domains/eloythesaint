@@ -1,0 +1,28 @@
+name: eloythesaint
+favicon: null
+layout_spectrum: 0.7553329092916101
+typography_spectrum: 0.10112339863553643
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#A690A4'
+    - '#B68F9D'
+    - '#C8ACAB'
+    - '#FBB9BF'
+    - '#E376B7'
+  brandStrength: 0.9762775609269738
+  lightness: 0.45710190245881677
+  saturation: 0.7195432796142995
+  rhythmicContrast: 0.06621566275134683
+purpose: []
