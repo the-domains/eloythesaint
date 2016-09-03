@@ -1,20 +1,4 @@
-name: eloythesaint
-favicon: null
-layout_spectrum: 0.75703
 typography_spectrum: 0.52182
-title: Eloy the Saint
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
 color:
   brandColors:
     - '#121212'
@@ -26,4 +10,21 @@ color:
   lightness: 0.45710190245881677
   saturation: 0.7195432796142995
   rhythmicContrast: 0.06621566275134683
+opengraph:
+  image: null
+  type: null
+  appId: null
+layout_spectrum: 0.75703
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+name: eloythesaint
+cta:
+  domain: null
+  bucket: null
+  version: null
+favicon: null
+title: Eloy the Saint
+description: RPG Writer and Designer
 purpose: []
